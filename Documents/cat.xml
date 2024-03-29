@@ -1,0 +1,8 @@
+<?xml version="1.0"?
+<productListing title= "My Products">
+<product>
+<name>Product one</name>
+<description> test test </description>
+<cost>$19.95</cost
+<shipping>2.95>/shipping>
+</product>
